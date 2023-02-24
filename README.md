@@ -3,7 +3,7 @@
 Project aims to create a digital clock.
 ## Project Skeleton
 ```
-find-the-number-game(folder)
+Digital-Clock(folder)
 |
 |----readme.md                 
 |----index.html  
